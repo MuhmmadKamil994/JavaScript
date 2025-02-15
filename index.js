@@ -1,1 +1,0 @@
-console.log("other file of js")
